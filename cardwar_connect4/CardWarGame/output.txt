@@ -1,0 +1,1176 @@
+Welcome to WAR! Let's Play!
+Enter the first player's name: Lisa
+Enter the second player's name: Liu
+
+Lisa                #Cards         Liu                 #Cards         Winner
+10 of Diamonds      26             6 of Diamonds       26             Lisa (win 1 card/cards)
+King of Spades      27             10 of Clubs         25             Lisa (win 1 card/cards)
+6 of Clubs          28             Queen of Clubs      24             Liu (win 1 card/cards)
+Jack of Clubs       27             2 of Diamonds       25             Lisa (win 1 card/cards)
+9 of Diamonds       28             3 of Diamonds       24             Lisa (win 1 card/cards)
+Jack of Spades      29             Ace of Spades       23             Liu (win 1 card/cards)
+Queen of Hearts     28             9 of Hearts         24             Lisa (win 1 card/cards)
+10 of Spades        29             2 of Spades         23             Lisa (win 1 card/cards)
+4 of Spades         30             7 of Hearts         22             Liu (win 1 card/cards)
+Jack of Diamonds    29             King of Clubs       23             Liu (win 1 card/cards)
+8 of Hearts         28             3 of Hearts         24             Lisa (win 1 card/cards)
+2 of Hearts         29             Ace of Clubs        23             Liu (win 1 card/cards)
+6 of Hearts         28             9 of Spades         24             Liu (win 1 card/cards)
+3 of Spades         27             Queen of Spades     25             Liu (win 1 card/cards)
+Jack of Hearts      26             7 of Clubs          26             Lisa (win 1 card/cards)
+5 of Diamonds       27             8 of Diamonds       25             Liu (win 1 card/cards)
+King of Diamonds    26             3 of Clubs          26             Lisa (win 1 card/cards)
+9 of Clubs          27             10 of Hearts        25             Liu (win 1 card/cards)
+5 of Clubs          26             5 of Hearts         26             War happen
+************************************************WAR*******************************************
+
+5 of Clubs                         5 of Hearts                        
+7 of Spades                        8 of Clubs                         
+5 of Spades                        4 of Diamonds                      
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+4 of Clubs          29             6 of Spades         23             Liu (win 1 card/cards)
+7 of Diamonds       28             8 of Spades         24             Liu (win 1 card/cards)
+Ace of Diamonds     27             4 of Hearts         25             Lisa (win 1 card/cards)
+King of Hearts      28             Ace of Hearts       24             Liu (win 1 card/cards)
+2 of Clubs          27             Queen of Diamonds   25             Liu (win 1 card/cards)
+10 of Diamonds      26             Queen of Clubs      26             Liu (win 1 card/cards)
+6 of Diamonds       25             6 of Clubs          27             War happen
+************************************************WAR*******************************************
+
+6 of Diamonds                      6 of Clubs                         
+King of Spades                     Ace of Spades                      
+10 of Clubs                        Jack of Spades                     
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+Jack of Clubs       22             7 of Hearts         30             Lisa (win 1 card/cards)
+2 of Diamonds       23             4 of Spades         29             Liu (win 1 card/cards)
+9 of Diamonds       22             King of Clubs       30             Liu (win 1 card/cards)
+3 of Diamonds       21             Jack of Diamonds    31             Liu (win 1 card/cards)
+Queen of Hearts     20             Ace of Clubs        32             Liu (win 1 card/cards)
+9 of Hearts         19             2 of Hearts         33             Lisa (win 1 card/cards)
+10 of Spades        20             9 of Spades         32             Lisa (win 1 card/cards)
+2 of Spades         21             6 of Hearts         31             Liu (win 1 card/cards)
+8 of Hearts         20             Queen of Spades     32             Liu (win 1 card/cards)
+3 of Hearts         19             3 of Spades         33             War happen
+************************************************WAR*******************************************
+
+3 of Hearts                        3 of Spades                        
+Jack of Hearts                     8 of Diamonds                      
+7 of Clubs                         5 of Diamonds                      
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+King of Diamonds    22             10 of Hearts        30             Lisa (win 1 card/cards)
+3 of Clubs          23             9 of Clubs          29             Liu (win 1 card/cards)
+5 of Clubs          22             6 of Spades         30             Liu (win 1 card/cards)
+7 of Spades         21             4 of Clubs          31             Lisa (win 1 card/cards)
+5 of Spades         22             8 of Spades         30             Liu (win 1 card/cards)
+5 of Hearts         21             7 of Diamonds       31             Liu (win 1 card/cards)
+8 of Clubs          20             Ace of Hearts       32             Liu (win 1 card/cards)
+4 of Diamonds       19             King of Hearts      33             Liu (win 1 card/cards)
+Ace of Diamonds     18             Queen of Diamonds   34             Lisa (win 1 card/cards)
+4 of Hearts         19             2 of Clubs          33             Lisa (win 1 card/cards)
+Jack of Clubs       20             Queen of Clubs      32             Liu (win 1 card/cards)
+7 of Hearts         19             10 of Diamonds      33             Liu (win 1 card/cards)
+9 of Hearts         18             6 of Clubs          34             Lisa (win 1 card/cards)
+2 of Hearts         19             Ace of Spades       33             Liu (win 1 card/cards)
+10 of Spades        18             Jack of Spades      34             Liu (win 1 card/cards)
+9 of Spades         17             6 of Diamonds       35             Lisa (win 1 card/cards)
+3 of Hearts         18             King of Spades      34             Liu (win 1 card/cards)
+Jack of Hearts      17             10 of Clubs         35             Lisa (win 1 card/cards)
+7 of Clubs          18             4 of Spades         34             Lisa (win 1 card/cards)
+3 of Spades         19             2 of Diamonds       33             Lisa (win 1 card/cards)
+8 of Diamonds       20             King of Clubs       32             Liu (win 1 card/cards)
+5 of Diamonds       19             9 of Diamonds       33             Liu (win 1 card/cards)
+King of Diamonds    18             Jack of Diamonds    34             Lisa (win 1 card/cards)
+10 of Hearts        19             3 of Diamonds       33             Lisa (win 1 card/cards)
+7 of Spades         20             Ace of Clubs        32             Liu (win 1 card/cards)
+4 of Clubs          19             Queen of Hearts     33             Liu (win 1 card/cards)
+Ace of Diamonds     18             6 of Hearts         34             Lisa (win 1 card/cards)
+Queen of Diamonds   19             2 of Spades         33             Lisa (win 1 card/cards)
+4 of Hearts         20             Queen of Spades     32             Liu (win 1 card/cards)
+2 of Clubs          19             8 of Hearts         33             Liu (win 1 card/cards)
+9 of Hearts         18             9 of Clubs          34             War happen
+************************************************WAR*******************************************
+
+9 of Hearts                        9 of Clubs                         
+6 of Clubs                         3 of Clubs                         
+9 of Spades                        6 of Spades                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+6 of Diamonds       21             5 of Clubs          31             Lisa (win 1 card/cards)
+Jack of Hearts      22             8 of Spades         30             Lisa (win 1 card/cards)
+10 of Clubs         23             5 of Spades         29             Lisa (win 1 card/cards)
+7 of Clubs          24             7 of Diamonds       28             War happen
+************************************************WAR*******************************************
+
+7 of Clubs                         7 of Diamonds                      
+4 of Spades                        5 of Hearts                        
+3 of Spades                        Ace of Hearts                      
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+2 of Diamonds       21             8 of Clubs          31             Liu (win 1 card/cards)
+King of Diamonds    20             King of Hearts      32             War happen
+************************************************WAR*******************************************
+
+King of Diamonds                   King of Hearts                     
+Jack of Diamonds                   4 of Diamonds                      
+10 of Hearts                       Queen of Clubs                     
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+3 of Diamonds       17             Jack of Clubs       35             Liu (win 1 card/cards)
+Ace of Diamonds     16             10 of Diamonds      36             Lisa (win 1 card/cards)
+6 of Hearts         17             7 of Hearts         35             Liu (win 1 card/cards)
+Queen of Diamonds   16             Ace of Spades       36             Liu (win 1 card/cards)
+2 of Spades         15             2 of Hearts         37             War happen
+************************************************WAR*******************************************
+
+2 of Spades                        2 of Hearts                        
+9 of Hearts                        Jack of Spades                     
+6 of Clubs                         10 of Spades                       
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+9 of Spades         12             King of Spades      40             Liu (win 1 card/cards)
+9 of Clubs          11             3 of Hearts         41             Lisa (win 1 card/cards)
+3 of Clubs          12             King of Clubs       40             Liu (win 1 card/cards)
+6 of Spades         11             8 of Diamonds       41             Liu (win 1 card/cards)
+6 of Diamonds       10             9 of Diamonds       42             Liu (win 1 card/cards)
+5 of Clubs          9              5 of Diamonds       43             War happen
+************************************************WAR*******************************************
+
+5 of Clubs                         5 of Diamonds                      
+Jack of Hearts                     Ace of Clubs                       
+8 of Spades                        7 of Spades                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+10 of Clubs         12             Queen of Hearts     40             Liu (win 1 card/cards)
+5 of Spades         11             4 of Clubs          41             Lisa (win 1 card/cards)
+Ace of Diamonds     12             Queen of Spades     40             Lisa (win 1 card/cards)
+10 of Diamonds      13             4 of Hearts         39             Lisa (win 1 card/cards)
+9 of Clubs          14             8 of Hearts         38             Lisa (win 1 card/cards)
+3 of Hearts         15             2 of Clubs          37             Lisa (win 1 card/cards)
+5 of Clubs          16             7 of Diamonds       36             Liu (win 1 card/cards)
+Jack of Hearts      15             5 of Hearts         37             Lisa (win 1 card/cards)
+8 of Spades         16             Ace of Hearts       36             Liu (win 1 card/cards)
+5 of Diamonds       15             7 of Clubs          37             Liu (win 1 card/cards)
+Ace of Clubs        14             4 of Spades         38             Lisa (win 1 card/cards)
+7 of Spades         15             3 of Spades         37             Lisa (win 1 card/cards)
+5 of Spades         16             8 of Clubs          36             Liu (win 1 card/cards)
+4 of Clubs          15             2 of Diamonds       37             Lisa (win 1 card/cards)
+Ace of Diamonds     16             King of Hearts      36             Lisa (win 1 card/cards)
+Queen of Spades     17             4 of Diamonds       35             Lisa (win 1 card/cards)
+10 of Diamonds      18             Queen of Clubs      34             Liu (win 1 card/cards)
+4 of Hearts         17             King of Diamonds    35             Liu (win 1 card/cards)
+9 of Clubs          16             Jack of Diamonds    36             Liu (win 1 card/cards)
+8 of Hearts         15             10 of Hearts        37             Liu (win 1 card/cards)
+3 of Hearts         14             Jack of Clubs       38             Liu (win 1 card/cards)
+2 of Clubs          13             3 of Diamonds       39             Liu (win 1 card/cards)
+Jack of Hearts      12             7 of Hearts         40             Lisa (win 1 card/cards)
+5 of Hearts         13             6 of Hearts         39             Liu (win 1 card/cards)
+Ace of Clubs        12             Ace of Spades       40             War happen
+************************************************WAR*******************************************
+
+Ace of Clubs                       Ace of Spades                      
+4 of Spades                        Queen of Diamonds                  
+7 of Spades                        2 of Hearts                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+3 of Spades         15             Jack of Spades      37             Liu (win 1 card/cards)
+4 of Clubs          14             10 of Spades        38             Liu (win 1 card/cards)
+2 of Diamonds       13             2 of Spades         39             War happen
+************************************************WAR*******************************************
+
+2 of Diamonds                      2 of Spades                        
+Ace of Diamonds                    9 of Hearts                        
+King of Hearts                     6 of Clubs                         
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+Queen of Spades     16             King of Spades      36             Liu (win 1 card/cards)
+4 of Diamonds       15             9 of Spades         37             Liu (win 1 card/cards)
+Jack of Hearts      14             King of Clubs       38             Liu (win 1 card/cards)
+7 of Hearts         13             3 of Clubs          39             Lisa (win 1 card/cards)
+Ace of Clubs        14             8 of Diamonds       38             Lisa (win 1 card/cards)
+4 of Spades         15             6 of Spades         37             Liu (win 1 card/cards)
+7 of Spades         14             9 of Diamonds       38             Liu (win 1 card/cards)
+Ace of Spades       13             6 of Diamonds       39             Lisa (win 1 card/cards)
+Queen of Diamonds   14             Queen of Hearts     38             War happen
+************************************************WAR*******************************************
+
+Queen of Diamonds                  Queen of Hearts                    
+2 of Hearts                        10 of Clubs                        
+2 of Diamonds                      7 of Diamonds                      
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+Ace of Diamonds     11             5 of Clubs          41             Lisa (win 1 card/cards)
+King of Hearts      12             Ace of Hearts       40             Liu (win 1 card/cards)
+2 of Spades         11             8 of Spades         41             Liu (win 1 card/cards)
+9 of Hearts         10             7 of Clubs          42             Lisa (win 1 card/cards)
+6 of Clubs          11             5 of Diamonds       41             Lisa (win 1 card/cards)
+7 of Hearts         12             8 of Clubs          40             Liu (win 1 card/cards)
+3 of Clubs          11             5 of Spades         41             Liu (win 1 card/cards)
+Ace of Clubs        10             Queen of Clubs      42             Lisa (win 1 card/cards)
+8 of Diamonds       11             10 of Diamonds      41             Liu (win 1 card/cards)
+Ace of Spades       10             King of Diamonds    42             Lisa (win 1 card/cards)
+6 of Diamonds       11             4 of Hearts         41             Lisa (win 1 card/cards)
+Ace of Diamonds     12             Jack of Diamonds    40             Lisa (win 1 card/cards)
+5 of Clubs          13             9 of Clubs          39             Liu (win 1 card/cards)
+9 of Hearts         12             10 of Hearts        40             Liu (win 1 card/cards)
+7 of Clubs          11             8 of Hearts         41             Liu (win 1 card/cards)
+6 of Clubs          10             Jack of Clubs       42             Liu (win 1 card/cards)
+5 of Diamonds       9              3 of Hearts         43             Lisa (win 1 card/cards)
+Ace of Clubs        10             3 of Diamonds       42             Lisa (win 1 card/cards)
+Queen of Clubs      11             2 of Clubs          41             Lisa (win 1 card/cards)
+Ace of Spades       12             6 of Hearts         40             Lisa (win 1 card/cards)
+King of Diamonds    13             5 of Hearts         39             Lisa (win 1 card/cards)
+6 of Diamonds       14             Jack of Spades      38             Liu (win 1 card/cards)
+4 of Hearts         13             3 of Spades         39             Lisa (win 1 card/cards)
+Ace of Diamonds     14             10 of Spades        38             Lisa (win 1 card/cards)
+Jack of Diamonds    15             4 of Clubs          37             Lisa (win 1 card/cards)
+5 of Diamonds       16             King of Spades      36             Liu (win 1 card/cards)
+3 of Hearts         15             Queen of Spades     37             Liu (win 1 card/cards)
+Ace of Clubs        14             9 of Spades         38             Lisa (win 1 card/cards)
+3 of Diamonds       15             4 of Diamonds       37             Liu (win 1 card/cards)
+Queen of Clubs      14             King of Clubs       38             Liu (win 1 card/cards)
+2 of Clubs          13             Jack of Hearts      39             Liu (win 1 card/cards)
+Ace of Spades       12             6 of Spades         40             Lisa (win 1 card/cards)
+6 of Hearts         13             4 of Spades         39             Lisa (win 1 card/cards)
+King of Diamonds    14             9 of Diamonds       38             Lisa (win 1 card/cards)
+5 of Hearts         15             7 of Spades         37             Liu (win 1 card/cards)
+4 of Hearts         14             Queen of Hearts     38             Liu (win 1 card/cards)
+3 of Spades         13             10 of Clubs         39             Liu (win 1 card/cards)
+Ace of Diamonds     12             7 of Diamonds       40             Lisa (win 1 card/cards)
+10 of Spades        13             Queen of Diamonds   39             Liu (win 1 card/cards)
+Jack of Diamonds    12             2 of Hearts         40             Lisa (win 1 card/cards)
+4 of Clubs          13             2 of Diamonds       39             Lisa (win 1 card/cards)
+Ace of Clubs        14             Ace of Hearts       38             War happen
+************************************************WAR*******************************************
+
+Ace of Clubs                       Ace of Hearts                      
+9 of Spades                        King of Hearts                     
+Ace of Spades                      8 of Spades                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+6 of Spades         17             2 of Spades         35             Lisa (win 1 card/cards)
+6 of Hearts         18             8 of Clubs          34             Liu (win 1 card/cards)
+4 of Spades         17             7 of Hearts         35             Liu (win 1 card/cards)
+King of Diamonds    16             5 of Spades         36             Lisa (win 1 card/cards)
+9 of Diamonds       17             3 of Clubs          35             Lisa (win 1 card/cards)
+Ace of Diamonds     18             10 of Diamonds      34             Lisa (win 1 card/cards)
+7 of Diamonds       19             8 of Diamonds       33             Liu (win 1 card/cards)
+Jack of Diamonds    18             9 of Clubs          34             Lisa (win 1 card/cards)
+2 of Hearts         19             5 of Clubs          33             Liu (win 1 card/cards)
+4 of Clubs          18             10 of Hearts        34             Liu (win 1 card/cards)
+2 of Diamonds       17             9 of Hearts         35             Liu (win 1 card/cards)
+Ace of Clubs        16             8 of Hearts         36             Lisa (win 1 card/cards)
+9 of Spades         17             7 of Clubs          35             Lisa (win 1 card/cards)
+Ace of Spades       18             Jack of Clubs       34             Lisa (win 1 card/cards)
+Ace of Hearts       19             6 of Clubs          33             Lisa (win 1 card/cards)
+King of Hearts      20             Jack of Spades      32             Lisa (win 1 card/cards)
+8 of Spades         21             6 of Diamonds       31             Lisa (win 1 card/cards)
+6 of Spades         22             King of Spades      30             Liu (win 1 card/cards)
+2 of Spades         21             5 of Diamonds       31             Liu (win 1 card/cards)
+King of Diamonds    20             Queen of Spades     32             Lisa (win 1 card/cards)
+5 of Spades         21             3 of Hearts         31             Lisa (win 1 card/cards)
+9 of Diamonds       22             4 of Diamonds       30             Lisa (win 1 card/cards)
+3 of Clubs          23             3 of Diamonds       29             War happen
+************************************************WAR*******************************************
+
+3 of Clubs                         3 of Diamonds                      
+Ace of Diamonds                    King of Clubs                      
+10 of Diamonds                     Queen of Clubs                     
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+Jack of Diamonds    20             Jack of Hearts      32             War happen
+************************************************WAR*******************************************
+
+Jack of Diamonds                   Jack of Hearts                     
+9 of Clubs                         2 of Clubs                         
+Ace of Clubs                       7 of Spades                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+8 of Hearts         23             5 of Hearts         29             Lisa (win 1 card/cards)
+9 of Spades         24             Queen of Hearts     28             Liu (win 1 card/cards)
+7 of Clubs          23             4 of Hearts         29             Lisa (win 1 card/cards)
+Ace of Spades       24             10 of Clubs         28             Lisa (win 1 card/cards)
+Jack of Clubs       25             3 of Spades         27             Lisa (win 1 card/cards)
+Ace of Hearts       26             Queen of Diamonds   26             Lisa (win 1 card/cards)
+6 of Clubs          27             10 of Spades        25             Liu (win 1 card/cards)
+King of Hearts      26             8 of Clubs          26             Lisa (win 1 card/cards)
+Jack of Spades      27             6 of Hearts         25             Lisa (win 1 card/cards)
+8 of Spades         28             7 of Hearts         24             Lisa (win 1 card/cards)
+6 of Diamonds       29             4 of Spades         23             Lisa (win 1 card/cards)
+King of Diamonds    30             8 of Diamonds       22             Lisa (win 1 card/cards)
+Queen of Spades     31             7 of Diamonds       21             Lisa (win 1 card/cards)
+5 of Spades         32             5 of Clubs          20             War happen
+************************************************WAR*******************************************
+
+5 of Spades                        5 of Clubs                         
+3 of Hearts                        2 of Hearts                        
+9 of Diamonds                      10 of Hearts                       
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+4 of Diamonds       29             4 of Clubs          23             War happen
+************************************************WAR*******************************************
+
+4 of Diamonds                      4 of Clubs                         
+Jack of Diamonds                   9 of Hearts                        
+9 of Clubs                         2 of Diamonds                      
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+Ace of Clubs        32             King of Spades      20             Lisa (win 1 card/cards)
+Jack of Hearts      33             6 of Spades         19             Lisa (win 1 card/cards)
+2 of Clubs          34             5 of Diamonds       18             Liu (win 1 card/cards)
+7 of Spades         33             2 of Spades         19             Lisa (win 1 card/cards)
+8 of Hearts         34             3 of Diamonds       18             Lisa (win 1 card/cards)
+5 of Hearts         35             King of Clubs       17             Liu (win 1 card/cards)
+7 of Clubs          34             Queen of Clubs      18             Liu (win 1 card/cards)
+4 of Hearts         33             3 of Clubs          19             Lisa (win 1 card/cards)
+Ace of Spades       34             Ace of Diamonds     18             War happen
+************************************************WAR*******************************************
+
+Ace of Spades                      Ace of Diamonds                    
+10 of Clubs                        10 of Diamonds                     
+Jack of Clubs                      Queen of Hearts                    
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+3 of Spades         31             9 of Spades         21             Liu (win 1 card/cards)
+Ace of Hearts       30             10 of Spades        22             Lisa (win 1 card/cards)
+Queen of Diamonds   31             6 of Clubs          21             Lisa (win 1 card/cards)
+King of Hearts      32             5 of Clubs          20             Lisa (win 1 card/cards)
+8 of Clubs          33             2 of Hearts         19             Lisa (win 1 card/cards)
+Jack of Spades      34             10 of Hearts        18             Lisa (win 1 card/cards)
+6 of Hearts         35             5 of Spades         17             Lisa (win 1 card/cards)
+8 of Spades         36             3 of Hearts         16             Lisa (win 1 card/cards)
+7 of Hearts         37             9 of Diamonds       15             Liu (win 1 card/cards)
+6 of Diamonds       36             5 of Diamonds       16             Lisa (win 1 card/cards)
+4 of Spades         37             2 of Clubs          15             Lisa (win 1 card/cards)
+King of Diamonds    38             King of Clubs       14             War happen
+************************************************WAR*******************************************
+
+King of Diamonds                   King of Clubs                      
+8 of Diamonds                      5 of Hearts                        
+Queen of Spades                    Queen of Clubs                     
+7 of Diamonds                      7 of Clubs                         
+4 of Diamonds                      Ace of Diamonds                    
+
+After war Liu win 5 card/cards
+************************************************END WAR***************************************
+Jack of Diamonds    33             10 of Diamonds      19             Lisa (win 1 card/cards)
+9 of Clubs          34             Queen of Hearts     18             Liu (win 1 card/cards)
+4 of Clubs          33             Ace of Spades       19             Liu (win 1 card/cards)
+9 of Hearts         32             10 of Clubs         20             Liu (win 1 card/cards)
+2 of Diamonds       31             Jack of Clubs       21             Liu (win 1 card/cards)
+Ace of Clubs        30             9 of Spades         22             Lisa (win 1 card/cards)
+King of Spades      31             3 of Spades         21             Lisa (win 1 card/cards)
+Jack of Hearts      32             9 of Diamonds       20             Lisa (win 1 card/cards)
+6 of Spades         33             7 of Hearts         19             Liu (win 1 card/cards)
+7 of Spades         32             King of Clubs       20             Liu (win 1 card/cards)
+2 of Spades         31             5 of Hearts         21             Liu (win 1 card/cards)
+8 of Hearts         30             Queen of Clubs      22             Liu (win 1 card/cards)
+3 of Diamonds       29             7 of Clubs          23             Liu (win 1 card/cards)
+4 of Hearts         28             Ace of Diamonds     24             Liu (win 1 card/cards)
+3 of Clubs          27             King of Diamonds    25             Liu (win 1 card/cards)
+Ace of Hearts       26             8 of Diamonds       26             Lisa (win 1 card/cards)
+10 of Spades        27             Queen of Spades     25             Liu (win 1 card/cards)
+Queen of Diamonds   26             7 of Diamonds       26             Lisa (win 1 card/cards)
+6 of Clubs          27             4 of Diamonds       25             Lisa (win 1 card/cards)
+King of Hearts      28             Queen of Hearts     24             Lisa (win 1 card/cards)
+5 of Clubs          29             9 of Clubs          23             Liu (win 1 card/cards)
+8 of Clubs          28             Ace of Spades       24             Liu (win 1 card/cards)
+2 of Hearts         27             4 of Clubs          25             Liu (win 1 card/cards)
+Jack of Spades      26             10 of Clubs         26             Lisa (win 1 card/cards)
+10 of Hearts        27             9 of Hearts         25             Lisa (win 1 card/cards)
+6 of Hearts         28             Jack of Clubs       24             Liu (win 1 card/cards)
+5 of Spades         27             2 of Diamonds       25             Lisa (win 1 card/cards)
+8 of Spades         28             7 of Hearts         24             Lisa (win 1 card/cards)
+3 of Hearts         29             6 of Spades         23             Liu (win 1 card/cards)
+6 of Diamonds       28             King of Clubs       24             Liu (win 1 card/cards)
+5 of Diamonds       27             7 of Spades         25             Liu (win 1 card/cards)
+4 of Spades         26             5 of Hearts         26             Liu (win 1 card/cards)
+2 of Clubs          25             2 of Spades         27             War happen
+************************************************WAR*******************************************
+
+2 of Clubs                         2 of Spades                        
+Jack of Diamonds                   Queen of Clubs                     
+10 of Diamonds                     8 of Hearts                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+Ace of Clubs        28             7 of Clubs          24             Lisa (win 1 card/cards)
+9 of Spades         29             3 of Diamonds       23             Lisa (win 1 card/cards)
+King of Spades      30             Ace of Diamonds     22             Liu (win 1 card/cards)
+3 of Spades         29             4 of Hearts         23             Liu (win 1 card/cards)
+Jack of Hearts      28             King of Diamonds    24             Liu (win 1 card/cards)
+9 of Diamonds       27             3 of Clubs          25             Lisa (win 1 card/cards)
+Ace of Hearts       28             Queen of Spades     24             Lisa (win 1 card/cards)
+8 of Diamonds       29             10 of Spades        23             Liu (win 1 card/cards)
+Queen of Diamonds   28             9 of Clubs          24             Lisa (win 1 card/cards)
+7 of Diamonds       29             5 of Clubs          23             Lisa (win 1 card/cards)
+6 of Clubs          30             Ace of Spades       22             Liu (win 1 card/cards)
+4 of Diamonds       29             8 of Clubs          23             Liu (win 1 card/cards)
+King of Hearts      28             4 of Clubs          24             Lisa (win 1 card/cards)
+Queen of Hearts     29             2 of Hearts         23             Lisa (win 1 card/cards)
+Jack of Spades      30             Jack of Clubs       22             War happen
+************************************************WAR*******************************************
+
+Jack of Spades                     Jack of Clubs                      
+10 of Clubs                        6 of Hearts                        
+10 of Hearts                       6 of Spades                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+9 of Hearts         33             3 of Hearts         19             Lisa (win 1 card/cards)
+5 of Spades         34             King of Clubs       18             Liu (win 1 card/cards)
+2 of Diamonds       33             6 of Diamonds       19             Liu (win 1 card/cards)
+8 of Spades         32             7 of Spades         20             Lisa (win 1 card/cards)
+7 of Hearts         33             5 of Diamonds       19             Lisa (win 1 card/cards)
+2 of Clubs          34             5 of Hearts         18             Liu (win 1 card/cards)
+Jack of Diamonds    33             4 of Spades         19             Lisa (win 1 card/cards)
+10 of Diamonds      34             Ace of Diamonds     18             Liu (win 1 card/cards)
+2 of Spades         33             King of Spades      19             Liu (win 1 card/cards)
+Queen of Clubs      32             4 of Hearts         20             Lisa (win 1 card/cards)
+8 of Hearts         33             3 of Spades         19             Lisa (win 1 card/cards)
+Ace of Clubs        34             King of Diamonds    18             Lisa (win 1 card/cards)
+7 of Clubs          35             Jack of Hearts      17             Liu (win 1 card/cards)
+9 of Spades         34             10 of Spades        18             Liu (win 1 card/cards)
+3 of Diamonds       33             8 of Diamonds       19             Liu (win 1 card/cards)
+9 of Diamonds       32             Ace of Spades       20             Liu (win 1 card/cards)
+3 of Clubs          31             6 of Clubs          21             Liu (win 1 card/cards)
+Ace of Hearts       30             8 of Clubs          22             Lisa (win 1 card/cards)
+Queen of Spades     31             4 of Diamonds       21             Lisa (win 1 card/cards)
+Queen of Diamonds   32             King of Clubs       20             Liu (win 1 card/cards)
+9 of Clubs          31             5 of Spades         21             Lisa (win 1 card/cards)
+7 of Diamonds       32             6 of Diamonds       20             Lisa (win 1 card/cards)
+5 of Clubs          33             2 of Diamonds       19             Lisa (win 1 card/cards)
+King of Hearts      34             5 of Hearts         18             Lisa (win 1 card/cards)
+4 of Clubs          35             2 of Clubs          17             Lisa (win 1 card/cards)
+Queen of Hearts     36             Ace of Diamonds     16             Liu (win 1 card/cards)
+2 of Hearts         35             10 of Diamonds      17             Liu (win 1 card/cards)
+Jack of Spades      34             King of Spades      18             Liu (win 1 card/cards)
+10 of Clubs         33             2 of Spades         19             Lisa (win 1 card/cards)
+10 of Hearts        34             Jack of Hearts      18             Liu (win 1 card/cards)
+Jack of Clubs       33             7 of Clubs          19             Lisa (win 1 card/cards)
+6 of Hearts         34             10 of Spades        18             Liu (win 1 card/cards)
+6 of Spades         33             9 of Spades         19             Liu (win 1 card/cards)
+9 of Hearts         32             8 of Diamonds       20             Lisa (win 1 card/cards)
+3 of Hearts         33             3 of Diamonds       19             War happen
+************************************************WAR*******************************************
+
+3 of Hearts                        3 of Diamonds                      
+8 of Spades                        Ace of Spades                      
+7 of Spades                        9 of Diamonds                      
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+7 of Hearts         30             6 of Clubs          22             Lisa (win 1 card/cards)
+5 of Diamonds       31             3 of Clubs          21             Lisa (win 1 card/cards)
+Jack of Diamonds    32             King of Clubs       20             Liu (win 1 card/cards)
+4 of Spades         31             Queen of Diamonds   21             Liu (win 1 card/cards)
+Queen of Clubs      30             Ace of Diamonds     22             Liu (win 1 card/cards)
+4 of Hearts         29             Queen of Hearts     23             Liu (win 1 card/cards)
+8 of Hearts         28             10 of Diamonds      24             Liu (win 1 card/cards)
+3 of Spades         27             2 of Hearts         25             Lisa (win 1 card/cards)
+Ace of Clubs        28             King of Spades      24             Lisa (win 1 card/cards)
+King of Diamonds    29             Jack of Spades      23             Lisa (win 1 card/cards)
+Ace of Hearts       30             Jack of Hearts      22             Lisa (win 1 card/cards)
+8 of Clubs          31             10 of Hearts        21             Liu (win 1 card/cards)
+Queen of Spades     30             10 of Spades        22             Lisa (win 1 card/cards)
+4 of Diamonds       31             6 of Hearts         21             Liu (win 1 card/cards)
+9 of Clubs          30             9 of Spades         22             War happen
+************************************************WAR*******************************************
+
+9 of Clubs                         9 of Spades                        
+5 of Spades                        6 of Spades                        
+7 of Diamonds                      3 of Diamonds                      
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+6 of Diamonds       33             Ace of Spades       19             Liu (win 1 card/cards)
+5 of Clubs          32             9 of Diamonds       20             Liu (win 1 card/cards)
+2 of Diamonds       31             3 of Hearts         21             Liu (win 1 card/cards)
+King of Hearts      30             8 of Spades         22             Lisa (win 1 card/cards)
+5 of Hearts         31             7 of Spades         21             Liu (win 1 card/cards)
+4 of Clubs          30             King of Clubs       22             Liu (win 1 card/cards)
+2 of Clubs          29             Jack of Diamonds    23             Liu (win 1 card/cards)
+10 of Clubs         28             Queen of Diamonds   24             Liu (win 1 card/cards)
+2 of Spades         27             4 of Spades         25             Liu (win 1 card/cards)
+Jack of Clubs       26             Ace of Diamonds     26             Liu (win 1 card/cards)
+7 of Clubs          25             Queen of Clubs      27             Liu (win 1 card/cards)
+9 of Hearts         24             Queen of Hearts     28             Liu (win 1 card/cards)
+8 of Diamonds       23             4 of Hearts         29             Lisa (win 1 card/cards)
+7 of Hearts         24             10 of Diamonds      28             Liu (win 1 card/cards)
+6 of Clubs          23             8 of Hearts         29             Liu (win 1 card/cards)
+5 of Diamonds       22             10 of Hearts        30             Liu (win 1 card/cards)
+3 of Clubs          21             8 of Clubs          31             Liu (win 1 card/cards)
+3 of Spades         20             6 of Hearts         32             Liu (win 1 card/cards)
+2 of Hearts         19             4 of Diamonds       33             Liu (win 1 card/cards)
+Ace of Clubs        18             Ace of Spades       34             War happen
+************************************************WAR*******************************************
+
+Ace of Clubs                       Ace of Spades                      
+King of Spades                     6 of Diamonds                      
+King of Diamonds                   9 of Diamonds                      
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+Jack of Spades      21             5 of Clubs          31             Lisa (win 1 card/cards)
+Ace of Hearts       22             3 of Hearts         30             Lisa (win 1 card/cards)
+Jack of Hearts      23             2 of Diamonds       29             Lisa (win 1 card/cards)
+Queen of Spades     24             7 of Spades         28             Lisa (win 1 card/cards)
+10 of Spades        25             5 of Hearts         27             Lisa (win 1 card/cards)
+9 of Clubs          26             King of Clubs       26             Liu (win 1 card/cards)
+5 of Spades         25             4 of Clubs          27             Lisa (win 1 card/cards)
+7 of Diamonds       26             Jack of Diamonds    26             Liu (win 1 card/cards)
+9 of Spades         25             2 of Clubs          27             Lisa (win 1 card/cards)
+6 of Spades         26             Queen of Diamonds   26             Liu (win 1 card/cards)
+3 of Diamonds       25             10 of Clubs         27             Liu (win 1 card/cards)
+King of Hearts      24             4 of Spades         28             Lisa (win 1 card/cards)
+8 of Spades         25             2 of Spades         27             Lisa (win 1 card/cards)
+8 of Diamonds       26             Ace of Diamonds     26             Liu (win 1 card/cards)
+4 of Hearts         25             Jack of Clubs       27             Liu (win 1 card/cards)
+Ace of Clubs        24             Queen of Clubs      28             Lisa (win 1 card/cards)
+King of Spades      25             7 of Clubs          27             Lisa (win 1 card/cards)
+King of Diamonds    26             Queen of Hearts     26             Lisa (win 1 card/cards)
+Ace of Spades       27             9 of Hearts         25             Lisa (win 1 card/cards)
+6 of Diamonds       28             10 of Diamonds      24             Liu (win 1 card/cards)
+9 of Diamonds       27             7 of Hearts         25             Lisa (win 1 card/cards)
+Jack of Spades      28             8 of Hearts         24             Lisa (win 1 card/cards)
+5 of Clubs          29             6 of Clubs          23             Liu (win 1 card/cards)
+Ace of Hearts       28             10 of Hearts        24             Lisa (win 1 card/cards)
+3 of Hearts         29             5 of Diamonds       23             Liu (win 1 card/cards)
+Jack of Hearts      28             8 of Clubs          24             Lisa (win 1 card/cards)
+2 of Diamonds       29             3 of Clubs          23             Liu (win 1 card/cards)
+Queen of Spades     28             6 of Hearts         24             Lisa (win 1 card/cards)
+7 of Spades         29             3 of Spades         23             Lisa (win 1 card/cards)
+10 of Spades        30             4 of Diamonds       22             Lisa (win 1 card/cards)
+5 of Hearts         31             2 of Hearts         21             Lisa (win 1 card/cards)
+5 of Spades         32             King of Clubs       20             Liu (win 1 card/cards)
+4 of Clubs          31             9 of Clubs          21             Liu (win 1 card/cards)
+9 of Spades         30             Jack of Diamonds    22             Liu (win 1 card/cards)
+2 of Clubs          29             7 of Diamonds       23             Liu (win 1 card/cards)
+King of Hearts      28             Queen of Diamonds   24             Lisa (win 1 card/cards)
+4 of Spades         29             6 of Spades         23             Liu (win 1 card/cards)
+8 of Spades         28             10 of Clubs         24             Liu (win 1 card/cards)
+2 of Spades         27             3 of Diamonds       25             Liu (win 1 card/cards)
+Ace of Clubs        26             Ace of Diamonds     26             War happen
+************************************************WAR*******************************************
+
+Ace of Clubs                       Ace of Diamonds                    
+Queen of Clubs                     8 of Diamonds                      
+King of Spades                     Jack of Clubs                      
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+7 of Clubs          29             4 of Hearts         23             Lisa (win 1 card/cards)
+King of Diamonds    30             10 of Diamonds      22             Lisa (win 1 card/cards)
+Queen of Hearts     31             6 of Diamonds       21             Lisa (win 1 card/cards)
+Ace of Spades       32             6 of Clubs          20             Lisa (win 1 card/cards)
+9 of Hearts         33             5 of Clubs          19             Lisa (win 1 card/cards)
+9 of Diamonds       34             5 of Diamonds       18             Lisa (win 1 card/cards)
+7 of Hearts         35             3 of Hearts         17             Lisa (win 1 card/cards)
+Jack of Spades      36             3 of Clubs          16             Lisa (win 1 card/cards)
+8 of Hearts         37             2 of Diamonds       15             Lisa (win 1 card/cards)
+Ace of Hearts       38             King of Clubs       14             Lisa (win 1 card/cards)
+10 of Hearts        39             5 of Spades         13             Lisa (win 1 card/cards)
+Jack of Hearts      40             9 of Clubs          12             Lisa (win 1 card/cards)
+8 of Clubs          41             4 of Clubs          11             Lisa (win 1 card/cards)
+Queen of Spades     42             Jack of Diamonds    10             Lisa (win 1 card/cards)
+6 of Hearts         43             9 of Spades         9              Liu (win 1 card/cards)
+7 of Spades         42             7 of Diamonds       10             War happen
+************************************************WAR*******************************************
+
+7 of Spades                        7 of Diamonds                      
+3 of Spades                        2 of Clubs                         
+10 of Spades                       6 of Spades                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+4 of Diamonds       45             4 of Spades         7              War happen
+************************************************WAR*******************************************
+
+4 of Diamonds                      4 of Spades                        
+5 of Hearts                        10 of Clubs                        
+2 of Hearts                        8 of Spades                        
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+King of Hearts      42             3 of Diamonds       10             Lisa (win 1 card/cards)
+Queen of Diamonds   43             2 of Spades         9              Lisa (win 1 card/cards)
+Ace of Clubs        44             9 of Spades         8              Lisa (win 1 card/cards)
+Queen of Clubs      45             6 of Hearts         7              Lisa (win 1 card/cards)
+King of Spades      46             4 of Spades         6              Lisa (win 1 card/cards)
+Ace of Diamonds     47             10 of Clubs         5              Lisa (win 1 card/cards)
+8 of Diamonds       48             8 of Spades         4              War happen
+************************************************WAR*******************************************
+
+8 of Diamonds                      8 of Spades                        
+Jack of Clubs                      4 of Diamonds                      
+7 of Clubs                         5 of Hearts                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+4 of Hearts         51             2 of Hearts         1              
+Lisa Wins! Congratulations
+Play again (y/n)?y
+Welcome to WAR! Let's Play!
+Enter the first player's name: Lisa
+Enter the second player's name: Liu
+
+Lisa                #Cards         Liu                 #Cards         Winner
+2 of Spades         26             8 of Diamonds       26             Liu (win 1 card/cards)
+8 of Spades         25             Queen of Clubs      27             Liu (win 1 card/cards)
+7 of Hearts         24             Jack of Diamonds    28             Liu (win 1 card/cards)
+9 of Diamonds       23             5 of Hearts         29             Lisa (win 1 card/cards)
+6 of Spades         24             10 of Clubs         28             Liu (win 1 card/cards)
+King of Spades      23             Ace of Clubs        29             Liu (win 1 card/cards)
+King of Diamonds    22             9 of Hearts         30             Lisa (win 1 card/cards)
+10 of Hearts        23             6 of Hearts         29             Lisa (win 1 card/cards)
+3 of Spades         24             Queen of Spades     28             Liu (win 1 card/cards)
+10 of Spades        23             Ace of Spades       29             Liu (win 1 card/cards)
+4 of Clubs          22             King of Hearts      30             Liu (win 1 card/cards)
+9 of Clubs          21             6 of Clubs          31             Lisa (win 1 card/cards)
+2 of Diamonds       22             6 of Diamonds       30             Liu (win 1 card/cards)
+9 of Spades         21             8 of Hearts         31             Lisa (win 1 card/cards)
+Jack of Clubs       22             Jack of Spades      30             War happen
+************************************************WAR*******************************************
+
+Jack of Clubs                      Jack of Spades                     
+King of Clubs                      Queen of Diamonds                  
+7 of Clubs                         2 of Clubs                         
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+3 of Diamonds       25             Jack of Hearts      27             Liu (win 1 card/cards)
+5 of Diamonds       24             4 of Spades         28             Lisa (win 1 card/cards)
+4 of Diamonds       25             2 of Hearts         27             Lisa (win 1 card/cards)
+Ace of Diamonds     26             Ace of Hearts       26             War happen
+************************************************WAR*******************************************
+
+Ace of Diamonds                    Ace of Hearts                      
+10 of Diamonds                     8 of Clubs                         
+3 of Hearts                        4 of Hearts                        
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+7 of Diamonds       23             5 of Spades         29             Lisa (win 1 card/cards)
+5 of Clubs          24             3 of Clubs          28             Lisa (win 1 card/cards)
+Queen of Hearts     25             7 of Spades         27             Lisa (win 1 card/cards)
+9 of Diamonds       26             8 of Diamonds       26             Lisa (win 1 card/cards)
+5 of Hearts         27             2 of Spades         25             Lisa (win 1 card/cards)
+King of Diamonds    28             Queen of Clubs      24             Lisa (win 1 card/cards)
+9 of Hearts         29             8 of Spades         23             Lisa (win 1 card/cards)
+10 of Hearts        30             Jack of Diamonds    22             Liu (win 1 card/cards)
+6 of Hearts         29             7 of Hearts         23             Liu (win 1 card/cards)
+9 of Clubs          28             10 of Clubs         24             Liu (win 1 card/cards)
+6 of Clubs          27             6 of Spades         25             War happen
+************************************************WAR*******************************************
+
+6 of Clubs                         6 of Spades                        
+9 of Spades                        Ace of Clubs                       
+8 of Hearts                        King of Spades                     
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+Jack of Clubs       24             Queen of Spades     28             Liu (win 1 card/cards)
+King of Clubs       23             3 of Spades         29             Lisa (win 1 card/cards)
+7 of Clubs          24             Ace of Spades       28             Liu (win 1 card/cards)
+Jack of Spades      23             10 of Spades        29             Lisa (win 1 card/cards)
+Queen of Diamonds   24             King of Hearts      28             Liu (win 1 card/cards)
+2 of Clubs          23             4 of Clubs          29             Liu (win 1 card/cards)
+5 of Diamonds       22             6 of Diamonds       30             Liu (win 1 card/cards)
+4 of Spades         21             2 of Diamonds       31             Lisa (win 1 card/cards)
+4 of Diamonds       22             Jack of Hearts      30             Liu (win 1 card/cards)
+2 of Hearts         21             3 of Diamonds       31             Liu (win 1 card/cards)
+7 of Diamonds       20             Ace of Hearts       32             Liu (win 1 card/cards)
+5 of Spades         19             8 of Clubs          33             Liu (win 1 card/cards)
+5 of Clubs          18             4 of Hearts         34             Lisa (win 1 card/cards)
+3 of Clubs          19             Ace of Diamonds     33             Liu (win 1 card/cards)
+Queen of Hearts     18             10 of Diamonds      34             Lisa (win 1 card/cards)
+7 of Spades         19             3 of Hearts         33             Lisa (win 1 card/cards)
+9 of Diamonds       20             Jack of Diamonds    32             Liu (win 1 card/cards)
+8 of Diamonds       19             10 of Hearts        33             Liu (win 1 card/cards)
+5 of Hearts         18             7 of Hearts         34             Liu (win 1 card/cards)
+2 of Spades         17             6 of Hearts         35             Liu (win 1 card/cards)
+King of Diamonds    16             10 of Clubs         36             Lisa (win 1 card/cards)
+Queen of Clubs      17             9 of Clubs          35             Lisa (win 1 card/cards)
+9 of Hearts         18             6 of Spades         34             Lisa (win 1 card/cards)
+8 of Spades         19             Ace of Clubs        33             Liu (win 1 card/cards)
+King of Clubs       18             King of Spades      34             War happen
+************************************************WAR*******************************************
+
+King of Clubs                      King of Spades                     
+3 of Spades                        6 of Clubs                         
+Jack of Spades                     9 of Spades                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+10 of Spades        21             8 of Hearts         31             Lisa (win 1 card/cards)
+4 of Spades         22             Queen of Spades     30             Liu (win 1 card/cards)
+2 of Diamonds       21             Jack of Clubs       31             Liu (win 1 card/cards)
+5 of Clubs          20             Ace of Spades       32             Liu (win 1 card/cards)
+4 of Hearts         19             7 of Clubs          33             Liu (win 1 card/cards)
+Queen of Hearts     18             King of Hearts      34             Liu (win 1 card/cards)
+10 of Diamonds      17             Queen of Diamonds   35             Liu (win 1 card/cards)
+7 of Spades         16             4 of Clubs          36             Lisa (win 1 card/cards)
+3 of Hearts         17             2 of Clubs          35             Lisa (win 1 card/cards)
+King of Diamonds    18             6 of Diamonds       34             Lisa (win 1 card/cards)
+10 of Clubs         19             5 of Diamonds       33             Lisa (win 1 card/cards)
+Queen of Clubs      20             Jack of Hearts      32             Lisa (win 1 card/cards)
+9 of Clubs          21             4 of Diamonds       31             Lisa (win 1 card/cards)
+9 of Hearts         22             3 of Diamonds       30             Lisa (win 1 card/cards)
+6 of Spades         23             2 of Hearts         29             Lisa (win 1 card/cards)
+King of Clubs       24             Ace of Hearts       28             Liu (win 1 card/cards)
+3 of Spades         23             7 of Diamonds       29             Liu (win 1 card/cards)
+Jack of Spades      22             8 of Clubs          30             Lisa (win 1 card/cards)
+King of Spades      23             5 of Spades         29             Lisa (win 1 card/cards)
+6 of Clubs          24             Ace of Diamonds     28             Liu (win 1 card/cards)
+9 of Spades         23             3 of Clubs          29             Lisa (win 1 card/cards)
+10 of Spades        24             Jack of Diamonds    28             Liu (win 1 card/cards)
+8 of Hearts         23             9 of Diamonds       29             Liu (win 1 card/cards)
+7 of Spades         22             10 of Hearts        30             Liu (win 1 card/cards)
+4 of Clubs          21             8 of Diamonds       31             Liu (win 1 card/cards)
+3 of Hearts         20             7 of Hearts         32             Liu (win 1 card/cards)
+2 of Clubs          19             5 of Hearts         33             Liu (win 1 card/cards)
+King of Diamonds    18             6 of Hearts         34             Lisa (win 1 card/cards)
+6 of Diamonds       19             2 of Spades         33             Lisa (win 1 card/cards)
+10 of Clubs         20             Ace of Clubs        32             Liu (win 1 card/cards)
+5 of Diamonds       19             8 of Spades         33             Liu (win 1 card/cards)
+Queen of Clubs      18             Queen of Spades     34             War happen
+************************************************WAR*******************************************
+
+Queen of Clubs                     Queen of Spades                    
+Jack of Hearts                     4 of Spades                        
+9 of Clubs                         Jack of Clubs                      
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+4 of Diamonds       15             2 of Diamonds       37             Lisa (win 1 card/cards)
+9 of Hearts         16             Ace of Spades       36             Liu (win 1 card/cards)
+3 of Diamonds       15             5 of Clubs          37             Liu (win 1 card/cards)
+6 of Spades         14             7 of Clubs          38             Liu (win 1 card/cards)
+2 of Hearts         13             4 of Hearts         39             Liu (win 1 card/cards)
+Jack of Spades      12             King of Hearts      40             Liu (win 1 card/cards)
+8 of Clubs          11             Queen of Hearts     41             Liu (win 1 card/cards)
+King of Spades      10             Queen of Diamonds   42             Lisa (win 1 card/cards)
+5 of Spades         11             10 of Diamonds      41             Liu (win 1 card/cards)
+9 of Spades         10             Ace of Hearts       42             Liu (win 1 card/cards)
+3 of Clubs          9              King of Clubs       43             Liu (win 1 card/cards)
+King of Diamonds    8              7 of Diamonds       44             Lisa (win 1 card/cards)
+6 of Hearts         9              3 of Spades         43             Lisa (win 1 card/cards)
+6 of Diamonds       10             Ace of Diamonds     42             Liu (win 1 card/cards)
+2 of Spades         9              6 of Clubs          43             Liu (win 1 card/cards)
+4 of Diamonds       8              Jack of Diamonds    44             Liu (win 1 card/cards)
+2 of Diamonds       7              10 of Spades        45             Liu (win 1 card/cards)
+King of Spades      6              9 of Diamonds       46             Lisa (win 1 card/cards)
+Queen of Diamonds   7              8 of Hearts         45             Lisa (win 1 card/cards)
+King of Diamonds    8              10 of Hearts        44             Lisa (win 1 card/cards)
+7 of Diamonds       9              7 of Spades         43             War happen
+************************************************WAR*******************************************
+
+7 of Diamonds                      7 of Spades                        
+6 of Hearts                        8 of Diamonds                      
+3 of Spades                        4 of Clubs                         
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+King of Spades      6              7 of Hearts         46             Lisa (win 1 card/cards)
+9 of Diamonds       7              3 of Hearts         45             Lisa (win 1 card/cards)
+Queen of Diamonds   8              5 of Hearts         44             Lisa (win 1 card/cards)
+8 of Hearts         9              2 of Clubs          43             Lisa (win 1 card/cards)
+King of Diamonds    10             Ace of Clubs        42             Liu (win 1 card/cards)
+10 of Hearts        9              10 of Clubs         43             War happen
+************************************************WAR*******************************************
+
+10 of Hearts                       10 of Clubs                        
+King of Spades                     8 of Spades                        
+7 of Hearts                        5 of Diamonds                      
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+9 of Diamonds       12             Queen of Spades     40             Liu (win 1 card/cards)
+3 of Hearts         11             4 of Spades         41             Liu (win 1 card/cards)
+Queen of Diamonds   10             Jack of Clubs       42             Lisa (win 1 card/cards)
+5 of Hearts         11             Queen of Clubs      41             Liu (win 1 card/cards)
+8 of Hearts         10             Jack of Hearts      42             Liu (win 1 card/cards)
+2 of Clubs          9              9 of Clubs          43             Liu (win 1 card/cards)
+10 of Hearts        8              Ace of Spades       44             Liu (win 1 card/cards)
+King of Spades      7              9 of Hearts         45             Lisa (win 1 card/cards)
+7 of Hearts         8              5 of Clubs          44             Lisa (win 1 card/cards)
+10 of Clubs         9              3 of Diamonds       43             Lisa (win 1 card/cards)
+8 of Spades         10             7 of Clubs          42             Lisa (win 1 card/cards)
+5 of Diamonds       11             6 of Spades         41             Liu (win 1 card/cards)
+Queen of Diamonds   10             4 of Hearts         42             Lisa (win 1 card/cards)
+Jack of Clubs       11             2 of Hearts         41             Lisa (win 1 card/cards)
+King of Spades      12             King of Hearts      40             War happen
+************************************************WAR*******************************************
+
+King of Spades                     King of Hearts                     
+9 of Hearts                        Jack of Spades                     
+7 of Hearts                        Queen of Hearts                    
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+5 of Clubs          9              8 of Clubs          43             Liu (win 1 card/cards)
+10 of Clubs         8              10 of Diamonds      44             War happen
+************************************************WAR*******************************************
+
+10 of Clubs                        10 of Diamonds                     
+3 of Diamonds                      5 of Spades                        
+8 of Spades                        Ace of Hearts                      
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+7 of Clubs          5              9 of Spades         47             Liu (win 1 card/cards)
+Queen of Diamonds   4              King of Clubs       48             Liu (win 1 card/cards)
+4 of Hearts         3              3 of Clubs          49             Lisa (win 1 card/cards)
+Jack of Clubs       4              Ace of Diamonds     48             Liu (win 1 card/cards)
+2 of Hearts         3              6 of Diamonds       49             Liu (win 1 card/cards)
+4 of Hearts         2              6 of Clubs          50             Liu (win 1 card/cards)
+3 of Clubs          1              2 of Spades         51             Lisa (win 1 card/cards)
+3 of Clubs          2              Jack of Diamonds    50             Liu (win 1 card/cards)
+2 of Spades         1              4 of Diamonds       51             
+Liu Wins! Congratulations
+Play again (y/n)?y
+Welcome to WAR! Let's Play!
+Enter the first player's name: Lisa
+Enter the second player's name: Liu
+
+Lisa                #Cards         Liu                 #Cards         Winner
+5 of Clubs          26             8 of Spades         26             Liu (win 1 card/cards)
+2 of Hearts         25             7 of Diamonds       27             Liu (win 1 card/cards)
+8 of Clubs          24             6 of Hearts         28             Lisa (win 1 card/cards)
+9 of Clubs          25             5 of Spades         27             Lisa (win 1 card/cards)
+6 of Clubs          26             8 of Hearts         26             Liu (win 1 card/cards)
+Ace of Clubs        25             2 of Diamonds       27             Lisa (win 1 card/cards)
+6 of Spades         26             8 of Diamonds       26             Liu (win 1 card/cards)
+10 of Diamonds      25             10 of Spades        27             War happen
+************************************************WAR*******************************************
+
+10 of Diamonds                     10 of Spades                       
+Queen of Hearts                    King of Diamonds                   
+4 of Diamonds                      9 of Hearts                        
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+5 of Hearts         22             10 of Clubs         30             Liu (win 1 card/cards)
+3 of Diamonds       21             Jack of Spades      31             Liu (win 1 card/cards)
+7 of Spades         20             3 of Spades         32             Lisa (win 1 card/cards)
+King of Clubs       21             Ace of Hearts       31             Liu (win 1 card/cards)
+2 of Clubs          20             Queen of Clubs      32             Liu (win 1 card/cards)
+3 of Hearts         19             King of Spades      33             Liu (win 1 card/cards)
+7 of Hearts         18             Jack of Diamonds    34             Liu (win 1 card/cards)
+4 of Clubs          17             Jack of Clubs       35             Liu (win 1 card/cards)
+Ace of Diamonds     16             Queen of Spades     36             Lisa (win 1 card/cards)
+Queen of Diamonds   17             7 of Clubs          35             Lisa (win 1 card/cards)
+King of Hearts      18             6 of Diamonds       34             Lisa (win 1 card/cards)
+Jack of Hearts      19             4 of Spades         33             Lisa (win 1 card/cards)
+9 of Diamonds       20             Ace of Spades       32             Liu (win 1 card/cards)
+3 of Clubs          19             4 of Hearts         33             Liu (win 1 card/cards)
+10 of Hearts        18             9 of Spades         34             Lisa (win 1 card/cards)
+2 of Spades         19             5 of Diamonds       33             Liu (win 1 card/cards)
+8 of Clubs          18             8 of Spades         34             War happen
+************************************************WAR*******************************************
+
+8 of Clubs                         8 of Spades                        
+6 of Hearts                        5 of Clubs                         
+9 of Clubs                         7 of Diamonds                      
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+5 of Spades         21             2 of Hearts         31             Lisa (win 1 card/cards)
+Ace of Clubs        22             8 of Hearts         30             Lisa (win 1 card/cards)
+2 of Diamonds       23             6 of Clubs          29             Liu (win 1 card/cards)
+7 of Spades         22             8 of Diamonds       30             Liu (win 1 card/cards)
+3 of Spades         21             6 of Spades         31             Liu (win 1 card/cards)
+Ace of Diamonds     20             10 of Spades        32             Lisa (win 1 card/cards)
+Queen of Spades     21             King of Diamonds    31             Liu (win 1 card/cards)
+Queen of Diamonds   20             9 of Hearts         32             Lisa (win 1 card/cards)
+7 of Clubs          21             10 of Diamonds      31             Liu (win 1 card/cards)
+King of Hearts      20             Queen of Hearts     32             Lisa (win 1 card/cards)
+6 of Diamonds       21             4 of Diamonds       31             Lisa (win 1 card/cards)
+Jack of Hearts      22             10 of Clubs         30             Lisa (win 1 card/cards)
+4 of Spades         23             5 of Hearts         29             Liu (win 1 card/cards)
+10 of Hearts        22             Jack of Spades      30             Liu (win 1 card/cards)
+9 of Spades         21             3 of Diamonds       31             Lisa (win 1 card/cards)
+8 of Clubs          22             Ace of Hearts       30             Liu (win 1 card/cards)
+6 of Hearts         21             King of Clubs       31             Liu (win 1 card/cards)
+9 of Clubs          20             Queen of Clubs      32             Liu (win 1 card/cards)
+8 of Spades         19             2 of Clubs          33             Lisa (win 1 card/cards)
+5 of Clubs          20             King of Spades      32             Liu (win 1 card/cards)
+7 of Diamonds       19             3 of Hearts         33             Lisa (win 1 card/cards)
+5 of Spades         20             Jack of Diamonds    32             Liu (win 1 card/cards)
+2 of Hearts         19             7 of Hearts         33             Liu (win 1 card/cards)
+Ace of Clubs        18             Jack of Clubs       34             Lisa (win 1 card/cards)
+8 of Hearts         19             4 of Clubs          33             Lisa (win 1 card/cards)
+Ace of Diamonds     20             Ace of Spades       32             War happen
+************************************************WAR*******************************************
+
+Ace of Diamonds                    Ace of Spades                      
+10 of Spades                       9 of Diamonds                      
+Queen of Diamonds                  4 of Hearts                        
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+9 of Hearts         23             3 of Clubs          29             Lisa (win 1 card/cards)
+King of Hearts      24             5 of Diamonds       28             Lisa (win 1 card/cards)
+Queen of Hearts     25             2 of Spades         27             Lisa (win 1 card/cards)
+6 of Diamonds       26             6 of Clubs          26             War happen
+************************************************WAR*******************************************
+
+6 of Diamonds                      6 of Clubs                         
+4 of Diamonds                      2 of Diamonds                      
+Jack of Hearts                     8 of Diamonds                      
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+10 of Clubs         29             7 of Spades         23             Lisa (win 1 card/cards)
+9 of Spades         30             6 of Spades         22             Lisa (win 1 card/cards)
+3 of Diamonds       31             3 of Spades         21             War happen
+************************************************WAR*******************************************
+
+3 of Diamonds                      3 of Spades                        
+8 of Spades                        King of Diamonds                   
+2 of Clubs                         Queen of Spades                    
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+7 of Diamonds       28             10 of Diamonds      24             Liu (win 1 card/cards)
+3 of Hearts         27             7 of Clubs          25             Liu (win 1 card/cards)
+Ace of Clubs        26             5 of Hearts         26             Lisa (win 1 card/cards)
+Jack of Clubs       27             4 of Spades         25             Lisa (win 1 card/cards)
+8 of Hearts         28             Jack of Spades      24             Liu (win 1 card/cards)
+4 of Clubs          27             10 of Hearts        25             Liu (win 1 card/cards)
+Ace of Diamonds     26             Ace of Hearts       26             War happen
+************************************************WAR*******************************************
+
+Ace of Diamonds                    Ace of Hearts                      
+10 of Spades                       8 of Clubs                         
+Queen of Diamonds                  King of Clubs                      
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+Ace of Spades       23             6 of Hearts         29             Lisa (win 1 card/cards)
+9 of Diamonds       24             Queen of Clubs      28             Liu (win 1 card/cards)
+4 of Hearts         23             9 of Clubs          29             Liu (win 1 card/cards)
+9 of Hearts         22             King of Spades      30             Liu (win 1 card/cards)
+3 of Clubs          21             5 of Clubs          31             Liu (win 1 card/cards)
+King of Hearts      20             Jack of Diamonds    32             Lisa (win 1 card/cards)
+5 of Diamonds       21             5 of Spades         31             War happen
+************************************************WAR*******************************************
+
+5 of Diamonds                      5 of Spades                        
+Queen of Hearts                    7 of Hearts                        
+2 of Spades                        2 of Hearts                        
+6 of Diamonds                      3 of Spades                        
+4 of Diamonds                      King of Diamonds                   
+
+After war Liu win 5 card/cards
+************************************************END WAR***************************************
+Jack of Hearts      16             Queen of Spades     36             Liu (win 1 card/cards)
+6 of Clubs          15             3 of Diamonds       37             Lisa (win 1 card/cards)
+2 of Diamonds       16             8 of Spades         36             Liu (win 1 card/cards)
+8 of Diamonds       15             2 of Clubs          37             Lisa (win 1 card/cards)
+10 of Clubs         16             10 of Diamonds      36             War happen
+************************************************WAR*******************************************
+
+10 of Clubs                        10 of Diamonds                     
+7 of Spades                        7 of Diamonds                      
+9 of Spades                        7 of Clubs                         
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+6 of Spades         19             3 of Hearts         33             Lisa (win 1 card/cards)
+Ace of Clubs        20             Jack of Spades      32             Lisa (win 1 card/cards)
+5 of Hearts         21             8 of Hearts         31             Liu (win 1 card/cards)
+Jack of Clubs       20             10 of Hearts        32             Lisa (win 1 card/cards)
+4 of Spades         21             4 of Clubs          31             War happen
+************************************************WAR*******************************************
+
+4 of Spades                        4 of Clubs                         
+Ace of Spades                      Ace of Hearts                      
+6 of Hearts                        8 of Clubs                         
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+King of Hearts      18             King of Clubs       34             War happen
+************************************************WAR*******************************************
+
+King of Hearts                     King of Clubs                      
+Jack of Diamonds                   Ace of Diamonds                    
+6 of Clubs                         10 of Spades                       
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+3 of Diamonds       15             Queen of Diamonds   37             Liu (win 1 card/cards)
+8 of Diamonds       14             Queen of Clubs      38             Liu (win 1 card/cards)
+2 of Clubs          13             9 of Diamonds       39             Liu (win 1 card/cards)
+10 of Clubs         12             9 of Clubs          40             Lisa (win 1 card/cards)
+7 of Spades         13             4 of Hearts         39             Lisa (win 1 card/cards)
+9 of Spades         14             King of Spades      38             Liu (win 1 card/cards)
+10 of Diamonds      13             9 of Hearts         39             Lisa (win 1 card/cards)
+7 of Diamonds       14             5 of Clubs          38             Lisa (win 1 card/cards)
+7 of Clubs          15             3 of Clubs          37             Lisa (win 1 card/cards)
+6 of Spades         16             5 of Spades         36             Lisa (win 1 card/cards)
+3 of Hearts         17             7 of Hearts         35             Liu (win 1 card/cards)
+Ace of Clubs        16             2 of Hearts         36             Lisa (win 1 card/cards)
+Jack of Spades      17             3 of Spades         35             Lisa (win 1 card/cards)
+Jack of Clubs       18             King of Diamonds    34             Liu (win 1 card/cards)
+10 of Hearts        17             5 of Diamonds       35             Lisa (win 1 card/cards)
+10 of Clubs         18             Queen of Hearts     34             Liu (win 1 card/cards)
+9 of Clubs          17             2 of Spades         35             Lisa (win 1 card/cards)
+7 of Spades         18             6 of Diamonds       34             Lisa (win 1 card/cards)
+4 of Hearts         19             4 of Diamonds       33             War happen
+************************************************WAR*******************************************
+
+4 of Hearts                        4 of Diamonds                      
+10 of Diamonds                     Queen of Spades                    
+9 of Hearts                        Jack of Hearts                     
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+7 of Diamonds       16             8 of Spades         36             Liu (win 1 card/cards)
+5 of Clubs          15             2 of Diamonds       37             Lisa (win 1 card/cards)
+7 of Clubs          16             8 of Hearts         36             Liu (win 1 card/cards)
+3 of Clubs          15             5 of Hearts         37             Liu (win 1 card/cards)
+6 of Spades         14             4 of Clubs          38             Lisa (win 1 card/cards)
+5 of Spades         15             Ace of Hearts       37             Liu (win 1 card/cards)
+Ace of Clubs        14             8 of Clubs          38             Lisa (win 1 card/cards)
+2 of Hearts         15             4 of Spades         37             Liu (win 1 card/cards)
+Jack of Spades      14             Ace of Spades       38             Liu (win 1 card/cards)
+3 of Spades         13             6 of Hearts         39             Liu (win 1 card/cards)
+10 of Hearts        12             King of Clubs       40             Liu (win 1 card/cards)
+5 of Diamonds       11             Ace of Diamonds     41             Liu (win 1 card/cards)
+9 of Clubs          10             10 of Spades        42             Liu (win 1 card/cards)
+2 of Spades         9              King of Hearts      43             Liu (win 1 card/cards)
+7 of Spades         8              Jack of Diamonds    44             Liu (win 1 card/cards)
+6 of Diamonds       7              6 of Clubs          45             War happen
+************************************************WAR*******************************************
+
+6 of Diamonds                      6 of Clubs                         
+5 of Clubs                         Queen of Diamonds                  
+2 of Diamonds                      3 of Diamonds                      
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+6 of Spades         4              Queen of Clubs      48             Liu (win 1 card/cards)
+4 of Clubs          3              8 of Diamonds       49             Liu (win 1 card/cards)
+Ace of Clubs        2              9 of Diamonds       50             Lisa (win 1 card/cards)
+8 of Clubs          3              2 of Clubs          49             Lisa (win 1 card/cards)
+Ace of Clubs        4              King of Spades      48             Lisa (win 1 card/cards)
+9 of Diamonds       5              9 of Spades         47             War happen
+************************************************WAR*******************************************
+
+9 of Diamonds                      9 of Spades                        
+8 of Clubs                         7 of Hearts                        
+2 of Clubs                         3 of Hearts                        
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+Ace of Clubs        2              King of Diamonds    50             Lisa (win 1 card/cards)
+King of Spades      3              Jack of Clubs       49             Lisa (win 1 card/cards)
+Ace of Clubs        4              Queen of Hearts     48             Lisa (win 1 card/cards)
+King of Diamonds    5              10 of Clubs         47             Lisa (win 1 card/cards)
+King of Spades      6              4 of Diamonds       46             Lisa (win 1 card/cards)
+Jack of Clubs       7              Queen of Spades     45             Liu (win 1 card/cards)
+Ace of Clubs        6              Jack of Hearts      46             Lisa (win 1 card/cards)
+Queen of Hearts     7              4 of Hearts         45             Lisa (win 1 card/cards)
+King of Diamonds    8              10 of Diamonds      44             Lisa (win 1 card/cards)
+10 of Clubs         9              9 of Hearts         43             Lisa (win 1 card/cards)
+King of Spades      10             8 of Spades         42             Lisa (win 1 card/cards)
+4 of Diamonds       11             7 of Diamonds       41             Liu (win 1 card/cards)
+Ace of Clubs        10             8 of Hearts         42             Lisa (win 1 card/cards)
+Jack of Hearts      11             7 of Clubs          41             Lisa (win 1 card/cards)
+Queen of Hearts     12             5 of Hearts         40             Lisa (win 1 card/cards)
+4 of Hearts         13             3 of Clubs          39             Lisa (win 1 card/cards)
+King of Diamonds    14             Ace of Hearts       38             Liu (win 1 card/cards)
+10 of Diamonds      13             5 of Spades         39             Lisa (win 1 card/cards)
+10 of Clubs         14             4 of Spades         38             Lisa (win 1 card/cards)
+9 of Hearts         15             2 of Hearts         37             Lisa (win 1 card/cards)
+King of Spades      16             Ace of Spades       36             Liu (win 1 card/cards)
+8 of Spades         15             Jack of Spades      37             Liu (win 1 card/cards)
+Ace of Clubs        14             6 of Hearts         38             Lisa (win 1 card/cards)
+8 of Hearts         15             3 of Spades         37             Lisa (win 1 card/cards)
+Jack of Hearts      16             King of Clubs       36             Liu (win 1 card/cards)
+7 of Clubs          15             10 of Hearts        37             Liu (win 1 card/cards)
+Queen of Hearts     14             Ace of Diamonds     38             Liu (win 1 card/cards)
+5 of Hearts         13             5 of Diamonds       39             War happen
+************************************************WAR*******************************************
+
+5 of Hearts                        5 of Diamonds                      
+4 of Hearts                        10 of Spades                       
+3 of Clubs                         9 of Clubs                         
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+10 of Diamonds      10             King of Hearts      42             Liu (win 1 card/cards)
+5 of Spades         9              2 of Spades         43             Lisa (win 1 card/cards)
+10 of Clubs         10             Jack of Diamonds    42             Liu (win 1 card/cards)
+4 of Spades         9              7 of Spades         43             Liu (win 1 card/cards)
+9 of Hearts         8              6 of Clubs          44             Lisa (win 1 card/cards)
+2 of Hearts         9              Queen of Diamonds   43             Liu (win 1 card/cards)
+Ace of Clubs        8              3 of Diamonds       44             Lisa (win 1 card/cards)
+6 of Hearts         9              6 of Diamonds       43             War happen
+************************************************WAR*******************************************
+
+6 of Hearts                        6 of Diamonds                      
+8 of Hearts                        5 of Clubs                         
+3 of Spades                        2 of Diamonds                      
+
+After war Lisa win 3 card/cards
+************************************************END WAR***************************************
+5 of Spades         12             Queen of Clubs      40             Liu (win 1 card/cards)
+2 of Spades         11             6 of Spades         41             Liu (win 1 card/cards)
+9 of Hearts         10             8 of Diamonds       42             Lisa (win 1 card/cards)
+6 of Clubs          11             4 of Clubs          41             Lisa (win 1 card/cards)
+Ace of Clubs        12             9 of Spades         40             Lisa (win 1 card/cards)
+3 of Diamonds       13             7 of Hearts         39             Liu (win 1 card/cards)
+6 of Hearts         12             3 of Hearts         40             Lisa (win 1 card/cards)
+8 of Hearts         13             9 of Diamonds       39             Liu (win 1 card/cards)
+3 of Spades         12             8 of Clubs          40             Liu (win 1 card/cards)
+6 of Diamonds       11             2 of Clubs          41             Lisa (win 1 card/cards)
+5 of Clubs          12             Queen of Spades     40             Liu (win 1 card/cards)
+2 of Diamonds       11             Jack of Clubs       41             Liu (win 1 card/cards)
+9 of Hearts         10             7 of Diamonds       42             Lisa (win 1 card/cards)
+8 of Diamonds       11             4 of Diamonds       41             Lisa (win 1 card/cards)
+6 of Clubs          12             Ace of Hearts       40             Liu (win 1 card/cards)
+4 of Clubs          11             King of Diamonds    41             Liu (win 1 card/cards)
+Ace of Clubs        10             Ace of Spades       42             War happen
+************************************************WAR*******************************************
+
+Ace of Clubs                       Ace of Spades                      
+9 of Spades                        King of Spades                     
+6 of Hearts                        Jack of Spades                     
+
+After war Liu win 3 card/cards
+************************************************END WAR***************************************
+3 of Hearts         7              8 of Spades         45             Liu (win 1 card/cards)
+6 of Diamonds       6              King of Clubs       46             Liu (win 1 card/cards)
+2 of Clubs          5              Jack of Hearts      47             Liu (win 1 card/cards)
+9 of Hearts         4              10 of Hearts        48             Liu (win 1 card/cards)
+7 of Diamonds       3              7 of Clubs          49             War happen
+************************************************WAR*******************************************
+
+7 of Diamonds                      7 of Clubs                         
+8 of Diamonds                      Ace of Diamonds                    
+4 of Diamonds                      Queen of Hearts                    
+
+Liu Wins! Congratulations
+Play again (y/n)?n
+Thanks for playing...

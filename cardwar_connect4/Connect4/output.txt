@@ -1,0 +1,384 @@
+Welcome to Connect4.Please enter your names.
+Player 1 name:lisa
+Player 2 name:liu
+lisa- you have red chips 'R', you go first
+liu- you have yellow chips 'Y', you go next
+lisa Please input a column# between 1-6:1
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5								
+6	R							
+liu Please input a column# between 1-6:2
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5								
+6	R	Y						
+lisa Please input a column# between 1-6:3
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5								
+6	R	Y	R					
+liu Please input a column# between 1-6:4
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5								
+6	R	Y	R	Y				
+lisa Please input a column# between 1-6:5
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5								
+6	R	Y	R	Y	R			
+liu Please input a column# between 1-6:6
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5								
+6	R	Y	R	Y	R	Y		
+lisa Please input a column# between 1-6:7
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5								
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:1
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5	Y							
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:2
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5	Y	R						
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:3
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5	Y	R	Y					
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:4
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5	Y	R	Y	R				
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:5
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5	Y	R	Y	R	Y			
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:6
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5	Y	R	Y	R	Y	R		
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:7
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4								
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:1
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4	R							
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:2
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4	R	Y						
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:3
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4	R	Y	R					
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:4
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4	R	Y	R	Y				
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:5
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4	R	Y	R	Y	R			
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:6
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4	R	Y	R	Y	R	Y		
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:7
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3								
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:2
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3		Y						
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:3
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3		Y	R					
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:4
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3		Y	R	Y				
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:5
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3		Y	R	Y	R			
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:6
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3		Y	R	Y	R	Y		
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:7
+	Col
+	1	2	3	4	5	6	7
+1								
+2								
+3		Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:2
+	Col
+	1	2	3	4	5	6	7
+1								
+2		Y						
+3		Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:2
+	Col
+	1	2	3	4	5	6	7
+1		R						
+2		Y						
+3		Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:3
+	Col
+	1	2	3	4	5	6	7
+1		R						
+2		Y	Y					
+3		Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:1
+	Col
+	1	2	3	4	5	6	7
+1		R						
+2		Y	Y					
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:5
+	Col
+	1	2	3	4	5	6	7
+1		R						
+2		Y	Y		Y			
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:4
+	Col
+	1	2	3	4	5	6	7
+1		R						
+2		Y	Y	R	Y			
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:1
+	Col
+	1	2	3	4	5	6	7
+1		R						
+2	Y	Y	Y	R	Y			
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:6
+	Col
+	1	2	3	4	5	6	7
+1		R						
+2	Y	Y	Y	R	Y	R		
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:7
+	Col
+	1	2	3	4	5	6	7
+1		R						
+2	Y	Y	Y	R	Y	R	Y	
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:1
+	Col
+	1	2	3	4	5	6	7
+1	R	R						
+2	Y	Y	Y	R	Y	R	Y	
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:3
+	Col
+	1	2	3	4	5	6	7
+1	R	R	Y					
+2	Y	Y	Y	R	Y	R	Y	
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:4
+	Col
+	1	2	3	4	5	6	7
+1	R	R	Y	R				
+2	Y	Y	Y	R	Y	R	Y	
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:5
+	Col
+	1	2	3	4	5	6	7
+1	R	R	Y	R	Y			
+2	Y	Y	Y	R	Y	R	Y	
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+lisa Please input a column# between 1-6:6
+	Col
+	1	2	3	4	5	6	7
+1	R	R	Y	R	Y	R		
+2	Y	Y	Y	R	Y	R	Y	
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+liu Please input a column# between 1-6:7
+	Col
+	1	2	3	4	5	6	7
+1	R	R	Y	R	Y	R	Y	
+2	Y	Y	Y	R	Y	R	Y	
+3	R	Y	R	Y	R	Y	R	
+4	R	Y	R	Y	R	Y	R	
+5	Y	R	Y	R	Y	R	Y	
+6	R	Y	R	Y	R	Y	R	
+No such Winner
