@@ -1,0 +1,1 @@
+Simple dynamic login and news publish system system made by Java Servlet, JSp and Mysql.

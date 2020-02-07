@@ -1,0 +1,21 @@
+body{
+    align:"center";
+    padding:10% 10%;
+}
+.left{
+    width: 25%;
+    height: 600px;
+    float:left;
+    text-align: left;
+    color:blueviolet;
+    background-color:#8888bb;
+}
+.right{
+    width: 75%;
+    height: 120px;
+    float: right;
+    text-align: left;
+    margin-top: 42px;
+    padding-left: 20px;
+    background-color: aliceblue;
+}
